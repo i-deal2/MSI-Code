@@ -1,4 +1,4 @@
-# Experiment 2: Serial Communication & Real-Time Visualization
+# Experiment 2: Serial Communication
 
 ## Software Requirements
 - **Arduino IDE**: For flashing `.ino` files to the Arduino Uno.
